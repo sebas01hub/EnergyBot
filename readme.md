@@ -43,7 +43,7 @@ Este comando estaría pensado para ofrecer alternativas que nos ayuden a mantene
 Para temperaturas altas:
 Aprovechar la ventilación natural.
 Cerrar las cortinas para evitar que entre demasiado calor.
-Abrir las ventanas cuando la temperatura exterior sea más agradable.
+Abre las ventanas cuando afuera haga menos calor.
 Utilizar ropa más ligera.
 
 Para temperaturas bajas:
